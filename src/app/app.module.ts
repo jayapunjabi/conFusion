@@ -13,7 +13,7 @@ import { MatListModule } from '@angular/material/list';
 @NgModule({
   declarations: [
     AppComponent,
-    MatListModule,
+   
     MenuComponent
   ],
   imports: [
